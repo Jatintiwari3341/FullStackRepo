@@ -7,7 +7,7 @@ public class App {
 	
 	public double Sum(double a,double b) {
 
-		return (a+b)*0;
+		return (a+b);
 
 	}
     public static void main(String[] args) {
@@ -18,6 +18,7 @@ public class App {
         System.out.println("task 1");
         
         System.out.println("task 2");
+        System.out.println("task 3 added by tl ");
         
     }
 }
