@@ -5,7 +5,7 @@ package com.jt.main;
  */
 public class App {
 	public int sum(int a,int b) {
-		return a+b;
+		return (a+b)+0;
 	}
     public static void main(String[] args) {
         System.out.println("Hello World!");
