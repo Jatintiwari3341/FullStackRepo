@@ -6,4 +6,7 @@ public class UpiPayment {
 		return amt+"tansfer to "+phoneNo;
 	}
 
+	public String NetBanking() {
+		return null;
+	}
 }
